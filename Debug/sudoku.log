@@ -1,0 +1,9 @@
+﻿  Source.cpp
+e:\c++\sudoku\sudoku\source.cpp(484): warning C4018: '<': signed/unsigned 不相符
+e:\c++\sudoku\sudoku\source.cpp(509): warning C4018: '<': signed/unsigned 不相符
+e:\c++\sudoku\sudoku\source.cpp(517): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+opencv_world347d.lib(opencv_world347d.dll) : fatal error LNK1112: 模組電腦類型 'x64' 與目標電腦類型 'x86' 衝突

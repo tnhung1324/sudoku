@@ -1,0 +1,10 @@
+﻿  Source.cpp
+e:\c++\sudoku\sudoku\source.cpp(289): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+e:\c++\sudoku\sudoku\source.cpp(290): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+e:\c++\sudoku\sudoku\source.cpp(291): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+e:\c++\sudoku\sudoku\source.cpp(498): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+  sudoku.vcxproj -> E:\C++\sudoku\x64\Debug\sudoku.exe
